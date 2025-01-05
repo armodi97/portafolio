@@ -6180,4 +6180,14 @@ textarea {
     margin-right: 5px
 }
 
+.about-section .icon-container {
+    margin-bottom: 50px;
+    /* Espacio entre los íconos y la foto */
+}
+
+.about-section img {
+    margin-top: 20px;
+    /* Espacio entre la foto y los íconos */
+}
+
 /*# sourceMappingURL=main.70a66962.map*/
